@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @charkcl
 - 👀 I’m interested in < />
-- 🌱 I’m currently learning everything web3 and interesting crypto projects
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning everything web3 and crypto trading
+- 💞️ I’m looking to collaborate on ...fun projects?
 - 📫 How to reach me ...
 
 <!---
